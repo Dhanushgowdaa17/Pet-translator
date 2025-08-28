@@ -1,7 +1,6 @@
-streamlit
-tensorflow>=2.8
-tensorflow-hub
-librosa
-soundfile
+echo "streamlit
+tensorflow==2.15.0
+tensorflow-hub==0.15.0
 numpy
-pandas
+librosa
+sounddevice" > requirements.txt
